@@ -2,89 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1033598b-983c-42a5-849b-6cdeff7d507b" name="Default" comment="GO lang web dev">
-      <change afterPath="$PROJECT_DIR$/023_serving-files/02_serving/01_io-Copy/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/023_serving-files/02_serving/02_ServeContent/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/023_serving-files/02_serving/02_ServeContent/toby.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/023_serving-files/02_serving/03_ServeFile/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/023_serving-files/02_serving/03_ServeFile/toby.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/023_serving-files/02_serving/04_FileServer/01/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/023_serving-files/02_serving/04_FileServer/01/toby.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/023_serving-files/02_serving/04_FileServer/02/assets/toby.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/023_serving-files/02_serving/04_FileServer/02/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/023_serving-files/02_serving/04_FileServer/03/assets/toby.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/023_serving-files/02_serving/04_FileServer/03/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/023_serving-files/02_serving/04_FileServer/04_static/assets/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/023_serving-files/02_serving/04_FileServer/04_static/assets/css/mcleod-reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/023_serving-files/02_serving/04_FileServer/04_static/assets/css/mq_800-plus.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/023_serving-files/02_serving/04_FileServer/04_static/assets/img/background-photo-mobile-devices.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/023_serving-files/02_serving/04_FileServer/04_static/assets/img/background-photo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/023_serving-files/02_serving/04_FileServer/04_static/assets/img/svg/briefcase.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/023_serving-files/02_serving/04_FileServer/04_static/assets/img/svg/gear.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/023_serving-files/02_serving/04_FileServer/04_static/assets/img/svg/home.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/023_serving-files/02_serving/04_FileServer/04_static/assets/img/svg/pencil.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/023_serving-files/02_serving/04_FileServer/04_static/assets/img/svg/universal-access.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/023_serving-files/02_serving/04_FileServer/04_static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/023_serving-files/02_serving/04_FileServer/04_static/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/01_hands-on/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/02_solution/dog.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/02_solution/dog.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/02_solution/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/03_hands-on/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/03_hands-on/starting-files/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/03_hands-on/starting-files/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/03_hands-on/starting-files/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/03_hands-on/starting-files/pic/surf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/04_solution/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/04_solution/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/04_solution/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/04_solution/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/04_solution/pic/surf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/05_hands-on/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/05_hands-on/starting-files/public/pics/dog.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/05_hands-on/starting-files/public/pics/dog1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/05_hands-on/starting-files/public/pics/dog2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/05_hands-on/starting-files/templates/index.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/06_solution/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/06_solution/public/pics/dog.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/06_solution/public/pics/dog1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/06_solution/public/pics/dog2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/06_solution/templates/index.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/07_hands-on/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/07_hands-on/starting-files/public/pics/dog.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/07_hands-on/starting-files/public/pics/dog1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/07_hands-on/starting-files/public/pics/dog2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/07_hands-on/starting-files/templates/index.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/08_solution/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/08_solution/public/pics/dog.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/08_solution/public/pics/dog1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/08_solution/public/pics/dog2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/08_solution/templates/index.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/09_hands-on/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/09_hands-on/starting-files/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/09_hands-on/starting-files/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/09_hands-on/starting-files/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/09_hands-on/starting-files/pic/surf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/10_solution/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/10_solution/public/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/10_solution/public/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/10_solution/public/pic/surf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/10_solution/templates/index.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/11_hands-on/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/11_hands-on/starting-files/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/11_hands-on/starting-files/templates/about.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/11_hands-on/starting-files/templates/apply.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/11_hands-on/starting-files/templates/applyProcess.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/11_hands-on/starting-files/templates/contact.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/11_hands-on/starting-files/templates/index.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/12_solution/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/12_solution/templates/about.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/12_solution/templates/apply.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/12_solution/templates/applyProcess.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/12_solution/templates/contact.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024_hands-on/12_solution/templates/index.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/025_NotFoundHandler/01/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/025_NotFoundHandler/02/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/025_NotFoundHandler/02/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -221,6 +139,17 @@
               <item name="Goland-Web-Dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="Goland-Web-Dev" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Goland-Web-Dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Goland-Web-Dev" type="462c0819:PsiDirectoryNode" />
+              <item name="025_NotFoundHandler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Goland-Web-Dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Goland-Web-Dev" type="462c0819:PsiDirectoryNode" />
+              <item name="025_NotFoundHandler" type="462c0819:PsiDirectoryNode" />
+              <item name="01" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -275,12 +204,12 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4943274" visible="true" weight="0.1369936" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4943274" visible="true" weight="0.13859275" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49573562" weight="0.32897604" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5042644" side_tool="true" weight="0.32897604" />
       <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32897604" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49573562" weight="0.21568628" />
@@ -297,21 +226,21 @@
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4943274" visible="true" weight="0.13272922" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49573562" weight="0.32934782" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49573562" weight="0.21568628" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5042644" side_tool="true" weight="0.32934782" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Favorites" order="2" sideWeight="0.50567263" side_tool="true" weight="0.124200426" />
     </layout-to-restore>
   </component>
